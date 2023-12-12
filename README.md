@@ -5,7 +5,7 @@ A purely visual Right 2 Fight mod which allows you to play the voicelines of 4 d
 @@ -17,3 +19,16 @@ The process of making code look unreadable to humans, but able to be processed b
 
   ### I found a bug/I have a suggestion!
-  DM _oh_shinrou_.
+  DM  oh_shinrou.
 
   
   # Character Morph Mod
